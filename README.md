@@ -7,3 +7,12 @@ The AMI ID, region, key name, path to id_rsa and name of id_rsa and type can all
 You can also set the name variable to determine the value set for the Name tag.
 
 Note that you need to set your local environment variables AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY.
+
+
+##To Apply changes
+```
+terraform init
+```
+```
+terraform apply
+```
