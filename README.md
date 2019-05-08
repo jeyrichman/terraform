@@ -9,7 +9,7 @@ You can also set the name variable to determine the value set for the Name tag.
 Note that you need to set your local environment variables AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY.
 
 
-## To Apply changes
+## To Run this template
 ```
 terraform init
 ```
